@@ -1,0 +1,1 @@
+print("hello, it's edited by test2 repository!")
